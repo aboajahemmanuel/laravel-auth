@@ -5,7 +5,7 @@
     <form method="POST" action="{{ route('login') }}">
         @csrf
 
-        <h1 class="text-center text-2xl font-bold mb-4">{{ __('ADG PLATFORM wwwwwwwwwwwwwwwwwwwwwwwwwwwwww') }}</h1>
+        <h1 class="text-center text-2xl font-bold mb-4">{{ __('ADG PLATFORM11111111111111111111111') }}</h1>
         <!-- Email Address -->
         <div>
             <x-input-label for="email" :value="__('Email')" />
